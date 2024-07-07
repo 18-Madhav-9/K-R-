@@ -1,3 +1,7 @@
+/*
+* using function to print the temperature conversion table
+*/
+
 #include <stdio.h>
 
 void fahr_celsius() ;
